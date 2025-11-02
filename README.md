@@ -3,7 +3,9 @@
 The TCTP is rewarding owners with bonus points based on the sequence of cats they own.
 
 Opensea: https://opensea.io/collection/tokaido-cats
+
 The community: https://galaxis.xyz/communities/ether-cards
+
 The quest wiki page: https://wiki.galaxis.xyz/en/docs/quests/tocats
 
 # Usage
